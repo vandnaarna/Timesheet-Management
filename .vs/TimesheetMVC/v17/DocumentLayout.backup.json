@@ -1,0 +1,784 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vandana\\TimesheetMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7A457C-7E05-47A9-9FB4-BF2C125364A5}|..\\TimeSheetMVC.git\\TimeSheetProject\\TimeSheetProject.csproj|c:\\vandana\\timesheetmvc.git\\timesheetproject\\timesheetproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\timesheetmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:timesheetmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\models\\apirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:models\\apirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\services\\iservices\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:services\\iservices\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7A457C-7E05-47A9-9FB4-BF2C125364A5}|..\\TimeSheetMVC.git\\TimeSheetProject\\TimeSheetProject.csproj|c:\\vandana\\timesheetmvc.git\\timesheetproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7A457C-7E05-47A9-9FB4-BF2C125364A5}|..\\TimeSheetMVC.git\\TimeSheetProject\\TimeSheetProject.csproj|c:\\vandana\\timesheetmvc.git\\timesheetproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7A457C-7E05-47A9-9FB4-BF2C125364A5}|..\\TimeSheetMVC.git\\TimeSheetProject\\TimeSheetProject.csproj|c:\\vandana\\timesheetmvc.git\\timesheetproject\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\models\\dto\\taskmastercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:models\\dto\\taskmastercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\models\\dto\\projectmasterupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:models\\dto\\projectmasterupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\models\\dto\\projectmasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:models\\dto\\projectmasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\models\\dto\\projectmastercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:models\\dto\\projectmastercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD7CA7C-5D89-4468-AF5C-9C89379E731E}|..\\ClassLibraryUtility\\ClassLibraryUtility.csproj|c:\\vandana\\classlibraryutility\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD7CA7C-5D89-4468-AF5C-9C89379E731E}|..\\ClassLibraryUtility\\ClassLibraryUtility.csproj|c:\\vandana\\classlibraryutility\\classlibraryutility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\models\\dto\\usermasterupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:models\\dto\\usermasterupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\models\\dto\\usermasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:models\\dto\\usermasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\models\\dto\\usermastercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:models\\dto\\usermastercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\models\\dto\\taskmasterupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:models\\dto\\taskmasterupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\models\\dto\\taskmasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:models\\dto\\taskmasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\models\\projectassigneduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:models\\projectassigneduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\models\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:models\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\models\\rolemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:models\\rolemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\models\\projectmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:models\\projectmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7A457C-7E05-47A9-9FB4-BF2C125364A5}|..\\TimeSheetMVC.git\\TimeSheetProject\\TimeSheetProject.csproj|c:\\vandana\\timesheetmvc.git\\timesheetproject\\migrations\\timesheetdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7A457C-7E05-47A9-9FB4-BF2C125364A5}|..\\TimeSheetMVC.git\\TimeSheetProject\\TimeSheetProject.csproj|c:\\vandana\\timesheetmvc.git\\timesheetproject\\models\\taskmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\timesheetmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:timesheetmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7A457C-7E05-47A9-9FB4-BF2C125364A5}|..\\TimeSheetMVC.git\\TimeSheetProject\\TimeSheetProject.csproj|c:\\vandana\\timesheetmvc.git\\timesheetproject\\controllers\\projectapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7A457C-7E05-47A9-9FB4-BF2C125364A5}|..\\TimeSheetMVC.git\\TimeSheetProject\\TimeSheetProject.csproj|c:\\vandana\\timesheetmvc.git\\timesheetproject\\models\\dto\\projectmastercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7A457C-7E05-47A9-9FB4-BF2C125364A5}|..\\TimeSheetMVC.git\\TimeSheetProject\\TimeSheetProject.csproj|c:\\vandana\\timesheetmvc.git\\timesheetproject\\timesheetproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|c:\\vandana\\timesheetmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43E4A110-8A0E-4F44-94A6-E4AF9543F186}|TimesheetMVC.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7A457C-7E05-47A9-9FB4-BF2C125364A5}|..\\TimeSheetMVC.git\\TimeSheetProject\\TimeSheetProject.csproj|c:\\vandana\\timesheetmvc.git\\timesheetproject\\migrations\\20241001121051_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:21:00.389Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:24:00.888Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiRequest.cs",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Models\\ApiRequest.cs",
+              "RelativeDocumentMoniker": "Models\\ApiRequest.cs",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Models\\ApiRequest.cs",
+              "RelativeToolTip": "Models\\ApiRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:58:15.671Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\vandana\\ClassLibraryUtility\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibraryUtility\\Class1.cs",
+              "ToolTip": "C:\\vandana\\ClassLibraryUtility\\Class1.cs",
+              "RelativeToolTip": "..\\ClassLibraryUtility\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:51:30.463Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "MappingConfig.cs",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\MappingConfig.cs",
+              "RelativeToolTip": "MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:36:19.288Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T09:50:08.883Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\vandana\\TimeSheetMVC.git\\TimeSheetProject\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\TimeSheetMVC.git\\TimeSheetProject\\appsettings.json",
+              "ToolTip": "C:\\vandana\\TimeSheetMVC.git\\TimeSheetProject\\appsettings.json",
+              "RelativeToolTip": "..\\TimeSheetMVC.git\\TimeSheetProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T11:38:11.623Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Models\\APIResponse.cs",
+              "RelativeDocumentMoniker": "Models\\APIResponse.cs",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Models\\APIResponse.cs",
+              "RelativeToolTip": "Models\\APIResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:39:00.816Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Services\\Iservices\\IBaseService.cs",
+              "RelativeDocumentMoniker": "Services\\Iservices\\IBaseService.cs",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Services\\Iservices\\IBaseService.cs",
+              "RelativeToolTip": "Services\\Iservices\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:17:45.681Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "Services\\BaseService.cs",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Services\\BaseService.cs",
+              "RelativeToolTip": "Services\\BaseService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAApwB4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:43:48.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T10:29:22.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeSheetProject",
+              "DocumentMoniker": "C:\\vandana\\TimeSheetMVC.git\\TimeSheetProject\\TimeSheetProject.csproj",
+              "RelativeDocumentMoniker": "..\\TimeSheetMVC.git\\TimeSheetProject\\TimeSheetProject.csproj",
+              "ToolTip": "C:\\vandana\\TimeSheetMVC.git\\TimeSheetProject\\TimeSheetProject.csproj",
+              "RelativeToolTip": "..\\TimeSheetMVC.git\\TimeSheetProject\\TimeSheetProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T07:02:48.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vandana\\TimeSheetMVC.git\\TimeSheetProject\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TimeSheetMVC.git\\TimeSheetProject\\Program.cs",
+              "ToolTip": "C:\\vandana\\TimeSheetMVC.git\\TimeSheetProject\\Program.cs",
+              "RelativeToolTip": "..\\TimeSheetMVC.git\\TimeSheetProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:51:14.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\vandana\\TimeSheetMVC.git\\TimeSheetProject\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "..\\TimeSheetMVC.git\\TimeSheetProject\\MappingConfig.cs",
+              "ToolTip": "C:\\vandana\\TimeSheetMVC.git\\TimeSheetProject\\MappingConfig.cs",
+              "RelativeToolTip": "..\\TimeSheetMVC.git\\TimeSheetProject\\MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:54:23.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimesheetMVC.csproj",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\TimesheetMVC.csproj",
+              "RelativeDocumentMoniker": "TimesheetMVC.csproj",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\TimesheetMVC.csproj",
+              "RelativeToolTip": "TimesheetMVC.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T10:06:06.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskMasterCreateDTO.cs",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Models\\DTO\\TaskMasterCreateDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\TaskMasterCreateDTO.cs",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Models\\DTO\\TaskMasterCreateDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\TaskMasterCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:44:34.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProjectMasterUpdateDTO.cs",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Models\\DTO\\ProjectMasterUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\ProjectMasterUpdateDTO.cs",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Models\\DTO\\ProjectMasterUpdateDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\ProjectMasterUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:44:06.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProjectMasterDTO.cs",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Models\\DTO\\ProjectMasterDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\ProjectMasterDTO.cs",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Models\\DTO\\ProjectMasterDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\ProjectMasterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:43:41.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProjectMasterCreateDTO.cs",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Models\\DTO\\ProjectMasterCreateDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\ProjectMasterCreateDTO.cs",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Models\\DTO\\ProjectMasterCreateDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\ProjectMasterCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:51:57.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClassLibraryUtility",
+              "DocumentMoniker": "C:\\vandana\\ClassLibraryUtility\\ClassLibraryUtility.csproj",
+              "RelativeDocumentMoniker": "..\\ClassLibraryUtility\\ClassLibraryUtility.csproj",
+              "ToolTip": "C:\\vandana\\ClassLibraryUtility\\ClassLibraryUtility.csproj",
+              "RelativeToolTip": "..\\ClassLibraryUtility\\ClassLibraryUtility.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T07:51:52.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserMasterUpdateDTO.cs",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Models\\DTO\\UserMasterUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\UserMasterUpdateDTO.cs",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Models\\DTO\\UserMasterUpdateDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\UserMasterUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:55:47.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:47:21.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserMasterDTO.cs",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Models\\DTO\\UserMasterDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\UserMasterDTO.cs",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Models\\DTO\\UserMasterDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\UserMasterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:55:35.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserMasterCreateDTO.cs",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Models\\DTO\\UserMasterCreateDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\UserMasterCreateDTO.cs",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Models\\DTO\\UserMasterCreateDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\UserMasterCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:45:32.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TaskMasterUpdateDTO.cs",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Models\\DTO\\TaskMasterUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\TaskMasterUpdateDTO.cs",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Models\\DTO\\TaskMasterUpdateDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\TaskMasterUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:56:24.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TaskMasterDTO.cs",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Models\\DTO\\TaskMasterDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\TaskMasterDTO.cs",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Models\\DTO\\TaskMasterDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\TaskMasterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:56:26.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserMaster.cs",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Models\\UserMaster.cs",
+              "RelativeDocumentMoniker": "Models\\UserMaster.cs",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Models\\UserMaster.cs",
+              "RelativeToolTip": "Models\\UserMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:39:58.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RoleMaster.cs",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Models\\RoleMaster.cs",
+              "RelativeDocumentMoniker": "Models\\RoleMaster.cs",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Models\\RoleMaster.cs",
+              "RelativeToolTip": "Models\\RoleMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:39:55.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProjectAssignedUser.cs",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Models\\ProjectAssignedUser.cs",
+              "RelativeDocumentMoniker": "Models\\ProjectAssignedUser.cs",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Models\\ProjectAssignedUser.cs",
+              "RelativeToolTip": "Models\\ProjectAssignedUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:39:48.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProjectMaster.cs",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Models\\ProjectMaster.cs",
+              "RelativeDocumentMoniker": "Models\\ProjectMaster.cs",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Models\\ProjectMaster.cs",
+              "RelativeToolTip": "Models\\ProjectMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:39:53.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TimeSheetDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\vandana\\TimeSheetMVC.git\\TimeSheetProject\\Migrations\\TimeSheetDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\TimeSheetMVC.git\\TimeSheetProject\\Migrations\\TimeSheetDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\vandana\\TimeSheetMVC.git\\TimeSheetProject\\Migrations\\TimeSheetDBContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\TimeSheetMVC.git\\TimeSheetProject\\Migrations\\TimeSheetDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:29:50.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T10:09:07.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TaskMaster.cs",
+              "DocumentMoniker": "C:\\vandana\\TimeSheetMVC.git\\TimeSheetProject\\Models\\TaskMaster.cs",
+              "RelativeDocumentMoniker": "..\\TimeSheetMVC.git\\TimeSheetProject\\Models\\TaskMaster.cs",
+              "ToolTip": "C:\\vandana\\TimeSheetMVC.git\\TimeSheetProject\\Models\\TaskMaster.cs",
+              "RelativeToolTip": "..\\TimeSheetMVC.git\\TimeSheetProject\\Models\\TaskMaster.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAABQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:08:09.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20241001121051_init.cs",
+              "DocumentMoniker": "C:\\vandana\\TimeSheetMVC.git\\TimeSheetProject\\Migrations\\20241001121051_init.cs",
+              "RelativeDocumentMoniker": "..\\TimeSheetMVC.git\\TimeSheetProject\\Migrations\\20241001121051_init.cs",
+              "ToolTip": "C:\\vandana\\TimeSheetMVC.git\\TimeSheetProject\\Migrations\\20241001121051_init.cs",
+              "RelativeToolTip": "..\\TimeSheetMVC.git\\TimeSheetProject\\Migrations\\20241001121051_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:10:51.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TimesheetMVC",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\TimesheetMVC.csproj",
+              "RelativeDocumentMoniker": "TimesheetMVC.csproj",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\TimesheetMVC.csproj",
+              "RelativeToolTip": "TimesheetMVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T11:47:53.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProjectMasterCreateDTO.cs",
+              "DocumentMoniker": "C:\\vandana\\TimeSheetMVC.git\\TimeSheetProject\\Models\\DTO\\ProjectMasterCreateDTO.cs",
+              "RelativeDocumentMoniker": "..\\TimeSheetMVC.git\\TimeSheetProject\\Models\\DTO\\ProjectMasterCreateDTO.cs",
+              "ToolTip": "C:\\vandana\\TimeSheetMVC.git\\TimeSheetProject\\Models\\DTO\\ProjectMasterCreateDTO.cs",
+              "RelativeToolTip": "..\\TimeSheetMVC.git\\TimeSheetProject\\Models\\DTO\\ProjectMasterCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:35:51.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProjectAPIController.cs",
+              "DocumentMoniker": "C:\\vandana\\TimeSheetMVC.git\\TimeSheetProject\\Controllers\\ProjectAPIController.cs",
+              "RelativeDocumentMoniker": "..\\TimeSheetMVC.git\\TimeSheetProject\\Controllers\\ProjectAPIController.cs",
+              "ToolTip": "C:\\vandana\\TimeSheetMVC.git\\TimeSheetProject\\Controllers\\ProjectAPIController.cs",
+              "RelativeToolTip": "..\\TimeSheetMVC.git\\TimeSheetProject\\Controllers\\ProjectAPIController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwGEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:37:33.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TimeSheetProject.http",
+              "DocumentMoniker": "C:\\vandana\\TimeSheetMVC.git\\TimeSheetProject\\TimeSheetProject.http",
+              "RelativeDocumentMoniker": "..\\TimeSheetMVC.git\\TimeSheetProject\\TimeSheetProject.http",
+              "ToolTip": "C:\\vandana\\TimeSheetMVC.git\\TimeSheetProject\\TimeSheetProject.http",
+              "RelativeToolTip": "..\\TimeSheetMVC.git\\TimeSheetProject\\TimeSheetProject.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-01T11:34:13.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T09:50:46.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T09:50:48.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T09:50:50.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "wwwroot\\favicon.ico",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\wwwroot\\favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "wwwroot\\favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-10-01T10:09:50.251Z",
+              "EditorCaption": " -  [English (United States)] - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-01T10:09:41.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T09:50:43.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\vandana\\TimesheetMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\vandana\\TimesheetMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T09:50:18.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
